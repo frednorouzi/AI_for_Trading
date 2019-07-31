@@ -1,4 +1,5 @@
-# Artificial Intelligence for Trading Nanodegree Program Master the Latest AI Applications in Quantitative Finance 
+# Artificial Intelligence for Trading 
+# Master the Latest AI Applications in Quantitative Finance 
  Quantitative analysis, from data processing and trading signal  generation to portfolio management. Using machine learning to generate trading signals.
  Using Python to work with historical stock data, develop trading strategies, and construct a multi-factor model with optimization.
  ### Project 1: Trading with Momentum  
